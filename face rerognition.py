@@ -41,4 +41,4 @@ print(locations)
 
 
 # آیا دو عکس شبیه هم هست ؟
-print
+print(moqayeseh)
